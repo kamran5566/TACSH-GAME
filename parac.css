@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(130, 173, 238);
+}
+
+.op{
+background-color: rgb(245, 239, 239);
+width: 200px;
+height:300px ;
+display: inline-block;
+border-radius: 30px 20px 1px 1px;
+position: absolute;
+top: 70px;
+left: 600px;
+
+}
+.opp{
+    background-color: rgb(252, 248, 248);
+    width: 200px;
+    height:300px ;
+    display: inline-block;
+    border-radius: 20px 20px 1px 20px;
+    position: absolute;
+    top: 130px;
+    left: 430px;
+} 
+
+.oppp{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height:300px ;
+    display: inline-block;
+    border-radius: 20px 1px 1px 1px;
+    position: absolute;
+    top: 200px;
+    left: 260px;
+}
+.po{
+width: 50px;
+height: 40px;
+position: absolute;
+top: 70px;
+left: 600px;
+}
+.poo{
+    width: 50px;
+    height: 40px;
+    position: absolute;
+    top: 320px;
+    left: 750px;
+}
+.pooo{
+width: 150px;
+height: 220px;
+position: absolute;
+top: 100px;
+left: 640px;
+}
+.l{
+width: 45px;
+height: 35px;
+position: absolute;
+top: 140px;
+left: 440px;
+}
+.cpic{
+    width: 140px;
+    height: 220px;
+    position: absolute;
+    top: 180px;
+    left: 470px;
+}
+.lo{
+width:45px ;
+height:35px ;
+position: absolute;
+top: 390px;
+left: 580px;
+}
+.gf{
+    width:30px ;
+    /* height: ; */
+position: absolute;
+top: 75px;
+left: 760px;
+}
+.gff{
+width: 30px;
+position: absolute;
+top: 400px;
+left: 470px;
+}
+.loooo{
+    width: 40px;
+    position: absolute;
+    top: 210px;
+    left: 270px;
+}
+.cic{
+
+   width: 140px ;
+   height: 220px;
+   position: absolute;
+   top:250px ;
+   left: 290px; 
+}
+.lu{
+width: 35px;
+position: absolute;
+top: 470px;
+left: 420px;
+}
+.lui{
+    width: 30px;
+    position: absolute;
+    top: 470px;
+    left:270px ;
+}
